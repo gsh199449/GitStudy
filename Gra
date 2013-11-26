@@ -1,0 +1,28 @@
+* a01b8a1 add ReadME
+|  Readme.md | 2 ++
+|  1 file changed, 2 insertions(+)
+* 926bcfd fentou
+|  Bye.txt | 1 +
+|  1 file changed, 1 insertion(+)
+* 76fb938 add Bye.xtx
+|  Bye.txt | 0
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+* 79452f4 add  Hi
+|  Hello.txt | 1 +
+|  1 file changed, 1 insertion(+)
+* 74d5a3d First Comm
+|  Hello.txt | 1 +
+|  1 file changed, 1 insertion(+)
+*   2307227 Merge https://github.com/gsh199449/GitStudy
+|\  
+| * 6754302 Initial commit
+|    .gitignore |   6 ++
+|    LICENSE    | 202 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+|    README.md  |   2 +
+|    3 files changed, 210 insertions(+)
+* 43b9c5e First Commit
+|  Hello.txt | 0
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+* e8493e4 First
+   Readme.md | 0
+   1 file changed, 0 insertions(+), 0 deletions(-)
